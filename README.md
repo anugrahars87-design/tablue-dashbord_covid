@@ -1,5 +1,7 @@
 # COVID-19 Global Dashboard (Tableau)
 
+[tablue online dashboard](https://public.tableau.com/app/profile/anugraha.r.s/viz/tabluedashboard_17717062648540/Dashboard1?publish=yes)
+
 ## 📖 Overview
 This project visualizes COVID-19 deaths across continents, global totals, and death percentages relative to population.  
 The workflow combines **SQL (pgAdmin)**, **Excel preprocessing**, and **Tableau visualization**.
